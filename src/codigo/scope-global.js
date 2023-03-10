@@ -1,5 +1,4 @@
 // variables
-
 var a; // declarando
 var b = 'b'; // declaramos / asignamos
 b = 'bb'; // reasignacion
